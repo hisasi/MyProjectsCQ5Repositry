@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Company Portal - UI</comment>
+<entry key="createdBy">sudhasasi</entry>
+<entry key="name">company-ui</entry>
+<entry key="created">2015-07-18T22:29:33.539+0100</entry>
+<entry key="groupId">com.adobe.training</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.adobe.training</entry>
+<entry key="description">UI CRX Package</entry>
+<entry key="artifactId">company-ui</entry>
+<entry key="path">/etc/packages/com.adobe.training/company-ui.zip</entry>
+</properties>

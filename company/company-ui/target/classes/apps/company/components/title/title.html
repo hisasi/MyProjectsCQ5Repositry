@@ -1,0 +1,6 @@
+<h1>Title.html</h1>
+
+<div data-sly-use.titlecomponent="title.js" data-sly-unwrap>
+    <div data-sly-unwrap data-sly-use.titlerenderer="${titlecomponent.type}.html"></div>
+    <div data-sly-call="${titlerenderer.titlerenderer @ outputContent=titlecomponent.outputContent}" data-sly-unwrap></div>
+</div>
