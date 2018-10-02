@@ -1,6 +1,6 @@
 <vaultfs version="1.1">
     <!--
-        Defines the content aggregation. The order of the defined aggregates
+        This comment is written by sasi - Defines the content aggregation. The order of the defined aggregates
         is important for finding the correct aggregator.
     -->
     <aggregates>
